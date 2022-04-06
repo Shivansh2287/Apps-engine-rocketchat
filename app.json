@@ -1,0 +1,16 @@
+{
+    "id": "0c606395-0413-4fba-a657-48910d8e5dcd",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "shivansh",
+        "homepage": "n/s",
+        "support": "n/s"
+    },
+    "name": "helloWorld",
+    "nameSlug": "helloworld",
+    "classFile": "HelloWorldApp.ts",
+    "description": "say hello",
+    "implements": []
+}
